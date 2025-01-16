@@ -1,0 +1,5 @@
+boostrap: es una libreria de estilo css, creado por twitter, cuya principal 
+pagina oficial: https://getbootstrap.com/
+caracteristica es dotar a los sitios wev de responsividad
+CDN (Content Delibery Network):Red de distribucion de contenido
+div: son capas
